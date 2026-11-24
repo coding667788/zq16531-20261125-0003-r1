@@ -1,0 +1,9 @@
+{
+  "keys": ["key-00", "key-01", "key-02", "key-03"],
+  "bags": [
+    {"bag_id": "bag-00", "holder": "vault-0"},
+    {"bag_id": "bag-01", "holder": "vault-1"},
+    {"bag_id": "bag-02", "holder": "vault-0"},
+    {"bag_id": "bag-03", "holder": "vault-1"}
+  ]
+}
